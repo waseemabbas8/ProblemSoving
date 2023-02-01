@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21a318a2-30ca-43e3-9ce8-18adc4dafc91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/math/romantoint/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/math/romantoint/RomanToIntConverter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="21a318a2-30ca-43e3-9ce8-18adc4dafc91" name="Changes" comment="Draw a square diagonal matrix of given rows">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/strings/changeword/ChangeWordSolution.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/strings/changeword/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/math/RomanToIntSolution.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -40,10 +39,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/waseemabbas/IdeaProjects/ProblemSoving/src/main/kotlin/strings/changeword",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/strings/changeword" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/math/matrix/diagnal" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/math/_3sum" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/strings/commenprefix" />
+    </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="math.romanconversion" />
     </key>
@@ -60,7 +66,64 @@
       <option name="presentableId" value="Default" />
       <updated>1669982710683</updated>
     </task>
+    <task id="LOCAL-00001" summary="Convert a roman to an integer">
+      <created>1670223346245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670223346245</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Find the longest common prefix in an array of strings">
+      <created>1670239406512</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670239406512</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Find all the triplets whose sum is zero">
+      <created>1670247554800</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670247554800</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Draw a square diagonal matrix of given rows">
+      <created>1671778563705</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671778563705</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Convert a roman to an integer" />
+    <MESSAGE value="Find the longest common prefix in an array of strings" />
+    <MESSAGE value="Find all the triplets whose sum is zero" />
+    <MESSAGE value="Draw a square diagonal matrix of given rows" />
+    <option name="LAST_COMMIT_MESSAGE" value="Draw a square diagonal matrix of given rows" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/strings/commenprefix/LongestCommonPrefix.kt</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/strings/commenprefix/LongestCommonPrefix.kt</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/math/_3sum/ZeroSumTriplets.kt</url>
+          <line>57</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
